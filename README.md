@@ -1,6 +1,6 @@
 <!--Cabeçalho-->
 <h1 align="center">
-# SuperFilmes
+ SuperFilmes
 </h1>
 
 <hr/>
@@ -32,9 +32,8 @@ Para baixar o repositorio use o comando: `git clone https://github.com/lucaslop/
 
 
 ## Resultado
-<div align="center">
-![ezgif com-optimize](https://user-images.githubusercontent.com/38164895/88240393-58ad5200-cc5d-11ea-8ef7-3c3c1ce7fbae.gif)
-</div>
+  ![ezgif com-optimize](https://user-images.githubusercontent.com/38164895/88240393-58ad5200-cc5d-11ea-8ef7-3c3c1ce7fbae.gif)
+
 
 
 
